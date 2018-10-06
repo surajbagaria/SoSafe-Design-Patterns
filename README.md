@@ -1,0 +1,1 @@
+# SoSafe-Design-Patterns
